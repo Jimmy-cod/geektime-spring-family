@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="reactive-springbucks" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="datasource-demo" target="8" />
+      <module name="declarative-transaction-demo" target="1.8" />
+      <module name="helloworld" target="1.8" />
+      <module name="jpa-complex-demo" target="1.8" />
+      <module name="jpa-demo" target="1.8" />
+      <module name="mongo-demo" target="1.8" />
+      <module name="mongo-repository-demo" target="1.8" />
+      <module name="mybatis-demo" target="1.8" />
+      <module name="mybatis-generator-demo" target="1.8" />
+      <module name="mybatis-pagehelper-demo" target="1.8" />
+      <module name="programmatic-transaction-demo" target="1.8" />
+      <module name="reactive-springbucks" target="1.8" />
+      <module name="simple-jdbc-demo" target="1.8" />
+      <module name="springbucks" target="1.8" />
+      <module name="springbucks (1)" target="1.8" />
+      <module name="springbucks (2)" target="1.8" />
+      <module name="springbucks (3)" target="1.8" />
+      <module name="springbucks (4)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="datasource-demo" options="-parameters" />
+      <module name="declarative-transaction-demo" options="-parameters" />
+      <module name="helloworld" options="-parameters" />
+      <module name="jpa-complex-demo" options="-parameters" />
+      <module name="jpa-demo" options="-parameters" />
+      <module name="mongo-demo" options="-parameters" />
+      <module name="mongo-repository-demo" options="-parameters" />
+      <module name="mybatis-demo" options="-parameters" />
+      <module name="mybatis-generator-demo" options="-parameters" />
+      <module name="mybatis-pagehelper-demo" options="-parameters" />
+      <module name="programmatic-transaction-demo" options="-parameters" />
+      <module name="reactive-springbucks" options="-parameters" />
+      <module name="simple-jdbc-demo" options="-parameters" />
+      <module name="springbucks" options="-parameters" />
+      <module name="springbucks (1)" options="-parameters" />
+      <module name="springbucks (2)" options="-parameters" />
+      <module name="springbucks (3)" options="-parameters" />
+      <module name="springbucks (4)" options="-parameters" />
+    </option>
+  </component>
+</project>
