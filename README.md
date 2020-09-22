@@ -10,7 +10,7 @@
 
 **官方文档**
 
-1.https://docs.spring.io/spring/docs/5.2.0.BUILD-SNAPSHOT/spring-framework-reference/web.html#mvc-servlet
+https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/servlet/DispatcherServlet.html
 
 核心：DispatchServlet 所有请求的入口；
 
